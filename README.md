@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student at University of Limerick (3rd Year)<br>🖥️ Studying Computer Systems<br>💼 Working at BlackBox as a software developer & tester for Emerald Deskvue (video streaming)<br><br>🐍 Python & ☕ Java are my go-to languages<br>💚 Linux lover — and yes, I use Arch btw<br><br>⚡ Currently learning Electronics (Arduino, Raspberry Pi)<br>🔨 Just built a custom Corne keyboard (5 columns) — it’s pretty awesome!<br>🕹️ Hobbies: PC gaming, custom keyboards, and martial arts
+🎓 Student at University of Limerick (3rd Year)<br>🖥️ Studying Computer Systems<br>💼 Working at BlackBox as a software developer & tester for Emerald Deskvue (video streaming)<br><br>🐍 Python & ☕ Java are my go-to languages<br>💚 Linux lover — and yes, I use Arch btw<br><br>⚡ Currently learning Electronics (Arduino, Raspberry Pi)<br>🔨 Just built a custom Corne keyboard (5 columns) — it’s pretty awesome [link](https://imgur.com/a/T2f0bTd)!<br>🕹️ Hobbies: PC gaming, custom keyboards, and martial arts
 
 
 ## 🌐 Socials:
